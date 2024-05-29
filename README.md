@@ -1,4 +1,4 @@
-# airline_reviews_analysis
+# airline_reviews_analysis_and_prediction
 
 ## 01_webscrapping.ipynb & reviews.csv
 It consists of python code where
