@@ -28,3 +28,9 @@ It consits of
   - ipynb file and excel file both explore the data in different ways to present different insights
   - Exploratory Data Analysis of the Ratings left by the customer for each review
   - It contains visualisations which effectively potray insights
+
+## 06_consumer_prediction.ipynb
+It consits of pyhton code where
+  - a processed dataset, consumer_booking.csv, specifically for a Machine Learning Model is used
+  - the machine learning model RanodmForestClassifier is used to predict whether a customer would either recommend or not the airline
+  - It also consists of correlation between each parameter and topmost features that impact a customer's recommendation
